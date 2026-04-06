@@ -7,11 +7,6 @@ namespace CityEventsApp
     {
         static void Main(string[] args)
         {
-
-
-           
-            
-
             // У Main() створіть кілька подій
             // додайте у список базового типу CityEvent,
             List<CityEvent> events = new List<CityEvent>
