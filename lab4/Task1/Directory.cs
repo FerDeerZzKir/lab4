@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace lab4.Task1
 {
-    class Directory
+    public class Directory
     {
         public string Name { get; set; }
         public string PathDir

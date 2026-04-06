@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace lab4.Task1
 {
-    class File
+    public class File
     {
         public string Name { get; set; }
         public string DirectoryPath { get; set; } = ".";

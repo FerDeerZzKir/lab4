@@ -4,7 +4,7 @@ namespace lab4.Task1
 {
     class Program
     {
-        static void Main()
+        static void Main2()
         {
             Directory dir = new Directory { Name = "Task1/MyFolder" };
             dir.Create();

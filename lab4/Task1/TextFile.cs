@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace lab4.Task1
 {
-    class TextFile : File
+    public class TextFile : File
     {
         public string Content
         {
